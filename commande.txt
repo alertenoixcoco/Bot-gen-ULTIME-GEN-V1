@@ -1,0 +1,2 @@
+npm install discord.js@13.1.0
+npm install node-fetch
